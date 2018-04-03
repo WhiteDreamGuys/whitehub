@@ -1,0 +1,22 @@
+{
+  "discord_token": "tokenhere",
+  "discord_command_character": "!",
+  "discord_softban": "false",
+  "discord_softban_role": "391627386476560386",
+  "discord_asay_channel": "407054563301130241",
+  "discord_ooc_channel": "398614816790413322",
+  "discord_log_channel": "398614998621880341",
+  "discord_public_log_channel": "398614998621880341",
+  "discord_public_channel": "388749437289103360",
+  "discord_coder_channel": "407968362094657536",
+  "discord_coder_public_channel": "407968362094657536",
+  "discord_me_channel": "407143057331322890",
+  "discord_ahelp_channel": "407158006040494102",
+  "discord_garbage_channel": "407444234212474890",
+  "discord_guild": "388746184753283072",
+  "discord_restricted_channels": [],
+  "discord_subscriber_role": "406873684377337869",
+  "discord_tempban_interval": 15000,
+  "git_update": false,
+  "server_name": "Animus Dream"
+}
